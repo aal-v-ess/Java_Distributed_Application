@@ -29,10 +29,6 @@ import Servidor.TileType;
 
 public class Server implements Runnable {
 	
-//	String pathLog = "C:\\Users\\35191\\eclipse-workspace\\Tetris_Multiplayer_Server\\playersLogger.txt";
-//	String pathLogScore = "C:\\Users\\35191\\eclipse-workspace\\Tetris_Multiplayer_Server\\scoreLogger.txt";
-//	static String date;
-	
 	File currentDir = new File (".");
 	String basePath = currentDir.getAbsolutePath();
 	String pathLog = basePath + "/playersLogger.txt";
