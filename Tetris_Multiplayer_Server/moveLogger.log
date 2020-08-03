@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-07-17T13:41:21.896163600Z</date>
+  <millis>1594993281896</millis>
+  <nanos>163600</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 4 Y: 1 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:21.900340500Z</date>
+  <millis>1594993281900</millis>
+  <nanos>340500</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:22.907144200Z</date>
+  <millis>1594993282907</millis>
+  <nanos>144200</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 4 Y: 2 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:22.907144200Z</date>
+  <millis>1594993282907</millis>
+  <nanos>144200</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:23.627675800Z</date>
+  <millis>1594993283627</millis>
+  <nanos>675800</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 5 Y: 2 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:23.627675800Z</date>
+  <millis>1594993283627</millis>
+  <nanos>675800</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:23.887107500Z</date>
+  <millis>1594993283887</millis>
+  <nanos>107500</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 5 Y: 3 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:23.887107500Z</date>
+  <millis>1594993283887</millis>
+  <nanos>107500</nanos>
+  <sequence>7</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.058976800Z</date>
+  <millis>1594993284058</millis>
+  <nanos>976800</nanos>
+  <sequence>8</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 6 Y: 3 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.059937400Z</date>
+  <millis>1594993284059</millis>
+  <nanos>937400</nanos>
+  <sequence>9</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.558741100Z</date>
+  <millis>1594993284558</millis>
+  <nanos>741100</nanos>
+  <sequence>10</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 3 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.558741100Z</date>
+  <millis>1594993284558</millis>
+  <nanos>741100</nanos>
+  <sequence>11</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.841066100Z</date>
+  <millis>1594993284841</millis>
+  <nanos>66100</nanos>
+  <sequence>12</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 4 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.841066100Z</date>
+  <millis>1594993284841</millis>
+  <nanos>66100</nanos>
+  <sequence>13</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.861197Z</date>
+  <millis>1594993284861</millis>
+  <nanos>197000</nanos>
+  <sequence>14</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 5 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.861197Z</date>
+  <millis>1594993284861</millis>
+  <nanos>197000</nanos>
+  <sequence>15</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.882330100Z</date>
+  <millis>1594993284882</millis>
+  <nanos>330100</nanos>
+  <sequence>16</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 6 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.882330100Z</date>
+  <millis>1594993284882</millis>
+  <nanos>330100</nanos>
+  <sequence>17</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.904387800Z</date>
+  <millis>1594993284904</millis>
+  <nanos>387800</nanos>
+  <sequence>18</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 7 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.904387800Z</date>
+  <millis>1594993284904</millis>
+  <nanos>387800</nanos>
+  <sequence>19</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.923144400Z</date>
+  <millis>1594993284923</millis>
+  <nanos>144400</nanos>
+  <sequence>20</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 8 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.923144400Z</date>
+  <millis>1594993284923</millis>
+  <nanos>144400</nanos>
+  <sequence>21</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.943424600Z</date>
+  <millis>1594993284943</millis>
+  <nanos>424600</nanos>
+  <sequence>22</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 9 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.943424600Z</date>
+  <millis>1594993284943</millis>
+  <nanos>424600</nanos>
+  <sequence>23</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.963527600Z</date>
+  <millis>1594993284963</millis>
+  <nanos>527600</nanos>
+  <sequence>24</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 10 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.963527600Z</date>
+  <millis>1594993284963</millis>
+  <nanos>527600</nanos>
+  <sequence>25</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.983745700Z</date>
+  <millis>1594993284983</millis>
+  <nanos>745700</nanos>
+  <sequence>26</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 11 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:24.983745700Z</date>
+  <millis>1594993284983</millis>
+  <nanos>745700</nanos>
+  <sequence>27</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.003918400Z</date>
+  <millis>1594993285003</millis>
+  <nanos>918400</nanos>
+  <sequence>28</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 12 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.003918400Z</date>
+  <millis>1594993285003</millis>
+  <nanos>918400</nanos>
+  <sequence>29</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.024265500Z</date>
+  <millis>1594993285024</millis>
+  <nanos>265500</nanos>
+  <sequence>30</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 13 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.025282600Z</date>
+  <millis>1594993285025</millis>
+  <nanos>282600</nanos>
+  <sequence>31</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.044671Z</date>
+  <millis>1594993285044</millis>
+  <nanos>671000</nanos>
+  <sequence>32</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 14 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.044671Z</date>
+  <millis>1594993285044</millis>
+  <nanos>671000</nanos>
+  <sequence>33</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.065986700Z</date>
+  <millis>1594993285065</millis>
+  <nanos>986700</nanos>
+  <sequence>34</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 15 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.065986700Z</date>
+  <millis>1594993285065</millis>
+  <nanos>986700</nanos>
+  <sequence>35</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.086310500Z</date>
+  <millis>1594993285086</millis>
+  <nanos>310500</nanos>
+  <sequence>36</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 16 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.086310500Z</date>
+  <millis>1594993285086</millis>
+  <nanos>310500</nanos>
+  <sequence>37</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.107380100Z</date>
+  <millis>1594993285107</millis>
+  <nanos>380100</nanos>
+  <sequence>38</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 17 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.107380100Z</date>
+  <millis>1594993285107</millis>
+  <nanos>380100</nanos>
+  <sequence>39</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.127707Z</date>
+  <millis>1594993285127</millis>
+  <nanos>707000</nanos>
+  <sequence>40</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 18 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.127707Z</date>
+  <millis>1594993285127</millis>
+  <nanos>707000</nanos>
+  <sequence>41</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.148729800Z</date>
+  <millis>1594993285148</millis>
+  <nanos>729800</nanos>
+  <sequence>42</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 19 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.148729800Z</date>
+  <millis>1594993285148</millis>
+  <nanos>729800</nanos>
+  <sequence>43</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.169631200Z</date>
+  <millis>1594993285169</millis>
+  <nanos>631200</nanos>
+  <sequence>44</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 20 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.169631200Z</date>
+  <millis>1594993285169</millis>
+  <nanos>631200</nanos>
+  <sequence>45</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.190897900Z</date>
+  <millis>1594993285190</millis>
+  <nanos>897900</nanos>
+  <sequence>46</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>Request: Player: fgfg Type: TypeT X: 7 Y: 21 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.190897900Z</date>
+  <millis>1594993285190</millis>
+  <nanos>897900</nanos>
+  <sequence>47</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>Invalid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:25.498571800Z</date>
+  <millis>1594993285498</millis>
+  <nanos>571800</nanos>
+  <sequence>48</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Name: fgfg + Difficulty: Easy</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:26.180284200Z</date>
+  <millis>1594993286180</millis>
+  <nanos>284200</nanos>
+  <sequence>49</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>40</thread>
+  <message>Request: Player: fgfg Type: TypeI X: 3 Y: 2 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:26.180284200Z</date>
+  <millis>1594993286180</millis>
+  <nanos>284200</nanos>
+  <sequence>50</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>40</thread>
+  <message>Valid move</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:27.129563700Z</date>
+  <millis>1594993287129</millis>
+  <nanos>563700</nanos>
+  <sequence>51</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>41</thread>
+  <message>Request: Player: fgfg Type: TypeI X: 3 Y: 3 Rotation: 0</message>
+</record>
+<record>
+  <date>2020-07-17T13:41:27.129563700Z</date>
+  <millis>1594993287129</millis>
+  <nanos>563700</nanos>
+  <sequence>52</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>Servidor.Server</class>
+  <method>run</method>
+  <thread>41</thread>
+  <message>Valid move</message>
+</record>
