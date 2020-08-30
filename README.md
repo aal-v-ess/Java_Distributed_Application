@@ -1,4 +1,4 @@
-# Java_Distributed_Application
+# Tetris_Java_Distributed_Application
 
 This game was developed as a school project and it was my first interaction with the Java programming language.
 
